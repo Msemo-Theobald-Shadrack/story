@@ -1,1 +1,2 @@
-Welcome to chapter2
+Welcome to chapter2.
+This is part 2 of the story.
